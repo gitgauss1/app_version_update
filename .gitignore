@@ -1,6 +1,7 @@
 # Miscellaneous
 *.class
 *.log
+*.lock
 *.pyc
 *.swp
 .DS_Store
@@ -9,6 +10,8 @@
 .history
 .svn/
 migrate_working_dir/
+.flutter-plugins
+.flutter-plugins-dependencies
 
 # IntelliJ related
 *.iml
